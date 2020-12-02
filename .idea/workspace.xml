@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="245d6196-f220-4cfa-8750-79165442f0c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GotoFileConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="ActionScript" />
+      <filtered-out-file-type name="AIDL" />
+      <filtered-out-file-type name="Android RenderScript" />
+      <filtered-out-file-type name="Android Room SQL" />
+      <filtered-out-file-type name="AndroidDataBinding" />
+      <filtered-out-file-type name="Angular2Html" />
+      <filtered-out-file-type name="Angular2Svg" />
+      <filtered-out-file-type name="AspectJ" />
+      <filtered-out-file-type name="C#" />
+      <filtered-out-file-type name="C++" />
+      <filtered-out-file-type name="CoffeeScript" />
+      <filtered-out-file-type name="Cookie storage file" />
+      <filtered-out-file-type name="CSS" />
+      <filtered-out-file-type name="CSV/TSV" />
+      <filtered-out-file-type name="Cucumber" />
+      <filtered-out-file-type name="CVP" />
+      <filtered-out-file-type name="DGM" />
+      <filtered-out-file-type name="Dictionary" />
+      <filtered-out-file-type name="Dockerfile" />
+      <filtered-out-file-type name="Drools" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="Eclipse" />
+      <filtered-out-file-type name="ECMAScript 6" />
+      <filtered-out-file-type name="EditorConfig" />
+      <filtered-out-file-type name="Enforced Plain Text" />
+      <filtered-out-file-type name="Erlang" />
+      <filtered-out-file-type name="Flow" />
+      <filtered-out-file-type name="FTL" />
+      <filtered-out-file-type name="gdsl" />
+      <filtered-out-file-type name="GitExclude file" />
+      <filtered-out-file-type name="GitIgnore file" />
+      <filtered-out-file-type name="Groovy" />
+      <filtered-out-file-type name="GSP" />
+      <filtered-out-file-type name="GUI_DESIGNER_FORM" />
+      <filtered-out-file-type name="Haml" />
+      <filtered-out-file-type name="Haskell" />
+      <filtered-out-file-type name="HgIgnore file" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="HTTP Request" />
+      <filtered-out-file-type name="IDEA_MODULE" />
+      <filtered-out-file-type name="IDEA_PROJECT" />
+      <filtered-out-file-type name="IDEA_WORKSPACE" />
+      <filtered-out-file-type name="IDL" />
+      <filtered-out-file-type name="IgnoreLang file" />
+      <filtered-out-file-type name="IntegrationPerformanceTest" />
+      <filtered-out-file-type name="JAVA" />
+      <filtered-out-file-type name="JavaFX" />
+      <filtered-out-file-type name="JavaScript" />
+      <filtered-out-file-type name="Jest Snapshot" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JSHELL" />
+      <filtered-out-file-type name="JSHint" />
+      <filtered-out-file-type name="JSON5" />
+      <filtered-out-file-type name="JSP" />
+      <filtered-out-file-type name="JSPX" />
+      <filtered-out-file-type name="JSX Harmony" />
+      <filtered-out-file-type name="Kotlin" />
+      <filtered-out-file-type name="Kotlin/Native Def" />
+      <filtered-out-file-type name="Less" />
+      <filtered-out-file-type name="Literate CoffeeScript" />
+      <filtered-out-file-type name="logback" />
+      <filtered-out-file-type name="Manifest" />
+      <filtered-out-file-type name="Markdown" />
+      <filtered-out-file-type name="MavenConfig" />
+      <filtered-out-file-type name="MultiDexKeep" />
+      <filtered-out-file-type name="PATCH" />
+      <filtered-out-file-type name="Perl" />
+      <filtered-out-file-type name="PHP" />
+      <filtered-out-file-type name="PLAIN_TEXT" />
+      <filtered-out-file-type name="ProGuard File" />
+      <filtered-out-file-type name="Properties" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="RNG Compact" />
+      <filtered-out-file-type name="Sass" />
+      <filtered-out-file-type name="Scratch" />
+      <filtered-out-file-type name="SCSS" />
+      <filtered-out-file-type name="Shell Script" />
+      <filtered-out-file-type name="Smali" />
+      <filtered-out-file-type name="SourceMap" />
+      <filtered-out-file-type name="SPI" />
+      <filtered-out-file-type name="spring.binders" />
+      <filtered-out-file-type name="spring.factories" />
+      <filtered-out-file-type name="SQL" />
+      <filtered-out-file-type name="Stylus" />
+      <filtered-out-file-type name="SVG" />
+      <filtered-out-file-type name="textmate" />
+      <filtered-out-file-type name="tsconfig" />
+      <filtered-out-file-type name="TypeScript" />
+      <filtered-out-file-type name="TypeScript JSX" />
+      <filtered-out-file-type name="VTL" />
+      <filtered-out-file-type name="XHTML" />
+      <filtered-out-file-type name="XML" />
+      <filtered-out-file-type name="YAML" />
+      <filtered-out-file-type name="yarn.lock" />
+      <filtered-out-file-type name="AAB" />
+      <filtered-out-file-type name="AAR" />
+      <filtered-out-file-type name="Adobe Photoshop" />
+      <filtered-out-file-type name="Android 9-Patch" />
+      <filtered-out-file-type name="AndroidProfilerCpuCapture" />
+      <filtered-out-file-type name="AndroidProfilerMemoryCapture" />
+      <filtered-out-file-type name="Angular Metadata JSON" />
+      <filtered-out-file-type name="APK" />
+      <filtered-out-file-type name="ARCHIVE" />
+      <filtered-out-file-type name="CLASS" />
+      <filtered-out-file-type name="Database Element" />
+      <filtered-out-file-type name="DATASOURCE_STORAGE" />
+      <filtered-out-file-type name="dependency diagram" />
+      <filtered-out-file-type name="DEX" />
+      <filtered-out-file-type name="EJB" />
+      <filtered-out-file-type name="Font" />
+      <filtered-out-file-type name="GraphView" />
+      <filtered-out-file-type name="H2 Database" />
+      <filtered-out-file-type name="Image" />
+      <filtered-out-file-type name="JavaeeFacet" />
+      <filtered-out-file-type name="KJSM" />
+      <filtered-out-file-type name="KNM" />
+      <filtered-out-file-type name="kotlin_builtins" />
+      <filtered-out-file-type name="kotlin_module" />
+      <filtered-out-file-type name="Layout Inspector" />
+      <filtered-out-file-type name="Native" />
+      <filtered-out-file-type name="PersistenceUnit" />
+      <filtered-out-file-type name="ResourceBundle" />
+      <filtered-out-file-type name="Servlet" />
+      <filtered-out-file-type name="SQLite" />
+      <filtered-out-file-type name="SQLite Database" />
+      <filtered-out-file-type name="UML" />
+      <filtered-out-file-type name="UNKNOWN" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1l2RMLdwaf1TPhaqxXZlJzIQGZh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/other" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PageFactory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/other" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/pgrow/Downloads/automation/src/test/resources/testNG.xml">
+    <configuration name="TestTour.scenario1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;test.TestTour.scenario1&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="/Users/pgrow/Downloads/automation/src/test/resources/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/pgrow/Downloads/automation/src/test/resources/testNG.xml" />
+        <item itemvalue="Gradle.TestTour.scenario1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="245d6196-f220-4cfa-8750-79165442f0c0" name="Default Changelist" comment="" />
+      <created>1606793153032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606793153032</updated>
+      <workItem from="1606793154611" duration="8529000" />
+      <workItem from="1606871832923" duration="905000" />
+      <workItem from="1606875454874" duration="20122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606945467235">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="473" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1606945467235" />
+    <state x="754" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606945114541">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="754" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1606945114541" />
+    <state x="316" y="556" width="1354" height="494" key="#xdebugger.evaluate" timestamp="1606934820322">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="316" y="556" width="1354" height="494" key="#xdebugger.evaluate/0.23.1680.1027@0.23.1680.1027" timestamp="1606934820322" />
+    <state width="879" height="321" key="GridCell.Tab.0.bottom" timestamp="1606950724483">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="879" height="321" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1606950724483" />
+    <state width="879" height="321" key="GridCell.Tab.0.center" timestamp="1606950724483">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="879" height="321" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1606950724483" />
+    <state width="879" height="321" key="GridCell.Tab.0.left" timestamp="1606950724483">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="879" height="321" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1606950724483" />
+    <state width="879" height="321" key="GridCell.Tab.0.right" timestamp="1606950724483">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="879" height="321" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1606950724483" />
+    <state width="879" height="321" key="GridCell.Tab.1.bottom" timestamp="1606950724484">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="879" height="321" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1606950724484" />
+    <state width="879" height="321" key="GridCell.Tab.1.center" timestamp="1606950724484">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="879" height="321" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1606950724484" />
+    <state width="879" height="321" key="GridCell.Tab.1.left" timestamp="1606950724484">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="879" height="321" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1606950724484" />
+    <state width="879" height="321" key="GridCell.Tab.1.right" timestamp="1606950724484">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="879" height="321" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1606950724484" />
+    <state x="349" y="164" key="SettingsEditor" timestamp="1606794897108">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1606794897108" />
+    <state width="254" height="200" key="ShowFilterAction_Filter_Popup" timestamp="1606946617098">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="254" height="200" key="ShowFilterAction_Filter_Popup/0.23.1680.1027@0.23.1680.1027" timestamp="1606946617098" />
+    <state x="526" y="123" width="1154" height="827" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1606950650037">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="526" y="123" width="1154" height="827" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1606950650037" />
+    <state x="192" y="123" width="1384" height="827" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606936606825">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="192" y="123" width="1384" height="827" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1606936606825" />
+    <state x="710" y="298" width="598" height="476" key="find.popup" timestamp="1606946667139">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="710" y="298" width="598" height="476" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1606946667139" />
+    <state x="674" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1606946619535">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="674" y="252" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1606946619535" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PageFactory/SchedulingTourPage.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

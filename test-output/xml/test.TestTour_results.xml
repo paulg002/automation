@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression suite 1"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="40.523">
+  <properties />
+  
+  
+            <testcase name="scenario1" time="40.523" classname="test.TestTour" />
+      
+</testsuite>
