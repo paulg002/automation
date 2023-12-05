@@ -1,5 +1,5 @@
 # knock automate
-Background:  This is a basic framework made using Intellij, Java and TestNG to test Knock's visit schedule page.
+Background:  This is one-day build to make a basic framework made using WebDriver, Java and TestNG to test Knock's visit schedule page.
 
 # Setup Requirements:  
 Designed to run chrome on mac. Additional environments can be supported by replacing the chromedriver in
